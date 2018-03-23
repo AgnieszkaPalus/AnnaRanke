@@ -6,7 +6,6 @@ body {
     padding: 0px !important;
     margin: 0px !important;
     font-size: 14px;
-    
 }
 a,
 a:hover,
@@ -161,7 +160,6 @@ ul.dropdown-menu { border: none }
     position: absolute;
     left: 2%;
 }
-
 article h2 {
     font-family: 'Montserrat', sans-serif; 
 }
